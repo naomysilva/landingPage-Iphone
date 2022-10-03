@@ -1,5 +1,4 @@
 # landingPage-Iphone
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github.com/naomysilva/landingPage-Iphone/blob/ef8f1a3967ad15e20d541e03244555a78cf5c269/Photos/imagemIphone.JPG" width="350" title="hover text">
 </p>
